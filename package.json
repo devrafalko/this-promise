@@ -1,0 +1,31 @@
+{
+  "name": "this-promise",
+  "version": "1.0.0",
+  "description": "Creates the Promise chain of [Array] list of promises with its own inner `this` context.",
+  "main": "index.js",
+  "dependencies": {
+    "cli-color": "^1.2.0",
+    "of-type": "^2.1.0",
+    "typeof-arguments": "^3.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devrafalko/this-promise.git"
+  },
+  "keywords": [
+    "promise",
+    "this",
+    "chain",
+    "queue"
+  ],
+  "author": "Paweł Rafałko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devrafalko/this-promise/issues"
+  },
+  "homepage": "https://github.com/devrafalko/this-promise#readme"
+}
