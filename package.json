@@ -1,6 +1,6 @@
 {
   "name": "this-promise",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Creates the Promise chain of [Array] list of promises with its own inner `this` context.",
   "main": "index.js",
   "dependencies": {
